@@ -1,0 +1,19 @@
+# Made with <3 by krqkenez 
+# @author: krqkenez
+# @group: https://vk.ru/soulsburn
+name: VkEvents
+version: 2.0.0
+
+api: 5.0.0
+main: krqkenez\SoulsBurn\SoulsEvents
+
+description: Cocainer - VK LongPoll API Plugin. 
+author: krqkenez
+
+website: https://github.com/krqkenez / https://vk.ru/soulsburn
+load: STARTUP
+
+
+# NetherGames PMMP 5.0.0
+# PocketMine-MP 5.0.0
+# SoulsCocainer 5.0.0
